@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <meta name="description" content="The HTML5 Herald">
-    <meta name="author" content="SitePoint">
+    <meta name="author" content="SitePoint">:wq
 
 </head>
 
